@@ -120,7 +120,8 @@ Each row in the CSV corresponds to one article, with the following fields:
 - `content`: Original French content
 - `content_fon`: Translated content in Fon
 
-These files can be found in the root directory of the project or in the `/results` folder, depending on your implementation structure.
+These files can be found in the root directory of the project except for the file containing the translations `translated_data_fon`. This file is stored on a drive and can be downloaded from this link: [https://drive.google.com/file/d/1Z8j6_vMMKutgrbxduUjox6ooP3ebIZZH/view?usp=sharing](https://drive.google.com/file/d/1Z8j6_vMMKutgrbxduUjox6ooP3ebIZZH/view?usp=sharinghttps://drive.google.com/file/d/1Z8j6_vMMKutgrbxduUjox6ooP3ebIZZH/view?usp=sharing)
+
 
 
 ## License
